@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Delivery Status</title>
+   </head>
+  <body>
+    <div id="Status Table">
+      <table>
+      <thead> 
+       <tr>
+       <th scope="col">Name of the Reciver</th>
+       <th scope="col">Expected Delivery Day</th>
+       <th scope="col">Status</th>
+       <th scope="col">Code of Package</th>
+       </tr>
+      </thead>
+      <tbody>
+       <tr>
+       <td>Cindy Fabula</td>
+       <td>21 February</td>
+       <td>Ready to be delivered</td>
+       <td>B721Q3461-1</td>
+       </tr>
+       <tr>
+       <td>Frank Prenisa</td>
+       <td>17 February</td>
+       <td>Taken by Reciever</td>
+       <td>256K246L-2</td>
+       </tr>
+       <tr>
+       <td>Sonny Remasrak</td>
+       <td>5 March</td>
+       <td>Waiting to be Shipped</td>
+       <td>1254J6123-3</td>
+       </tr>
+       <tr>
+       <td>Abraham Remedy</td>
+       <td>6 October</td>
+       <td>On the Warehouse</td>
+       <td>123981523</td>
+       </tr>  
+       <tr>
+       <td>Crystal Satursey</td>
+       <td>7 Jan</td>
+       <td>On the Warehouse</td>
+       <td>12469123</td>
+       </tr>  
+       <tr>
+       <td>Lemmy Kesiqual</td>
+       <td>1 February</td>
+       <td>Taken by Reciever</td>
+       <td>13766321</td>
+       </tr>
+      </tbody> 
+      <tfoot>
+        <td colspan="2">Total</td>
+        <td colspan="2">6</td>
+      </tfoot>
+      
+
+       </table>
+
+     </div>
+  </body>  
+
+</html>
